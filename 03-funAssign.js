@@ -27,3 +27,4 @@ function addition(n1, n2, n3){
     console.log("Addition is: ", result);
 }
 addition(10.23 , 600 , 40);
+
