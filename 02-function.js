@@ -7,6 +7,7 @@ function show(){
     console.log("Inside show function");
 
 }
+
 show(); // Function call or invoke
 
 console.log("======== function with arguments and no return value =============");
