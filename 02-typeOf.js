@@ -10,10 +10,10 @@ console.log("Bank Name DataType Is:",bank);
 
 console.log("============= 2 ================");
 
-var marks = "90 %";
+var marks = 90 ;
 console.log("My Marks Are :",  marks);
 
-var marks ="string";
+var marks = Number;
 console.log("DataType of Marks :", marks);
 
 console.log("============== 3 ================");
